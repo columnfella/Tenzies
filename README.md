@@ -1,12 +1,13 @@
-# React + Vite
+# Tenzies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository is a small React-built tenzies game.
 
-Currently, two official plugins are available:
+###### What is Tenzies?
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tenzies is a dice game where players keep rolling dice till all dice hold the same number. Players progressively hold matching numbers with each roll.
 
-## Expanding the ESLint configuration
+###### *Recources:*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This repository is an exercise from Bob Zirroll's React course on the Scrimba platform: [https://scrimba.com/learn-react-c0e](https://scrimba.com/learn-react-c0e)
+
+The confetti effect is from the react-confetti package: https://github.com/alampros/react-confetti#readme
